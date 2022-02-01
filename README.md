@@ -4,7 +4,7 @@ Subject :
 
 Management of users who may have different tasks to perform
 
-Programming language : PHP 7.3.21, phpMyAdmin and WampServer
+Programming language : PHP 7.3.21, phpMyAdmin, Boostrap and WampServer
 
 Language : French
 
